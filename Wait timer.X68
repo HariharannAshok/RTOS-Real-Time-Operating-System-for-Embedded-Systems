@@ -1,6 +1,6 @@
 *-----------------------------------------------------------
 * Title      : RTS
-* Written by : Meghana,Hariharan,Mahalakshmi
+* Written by : Hariharan
 * Date       : Jan 25
 * Description: Time Slicing and Multitasking RunTime System 
 *-----------------------------------------------------------
